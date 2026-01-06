@@ -22,8 +22,8 @@ Key Insights
 - Repeat customers receive slightly faster deliveries than first-time customers
 - ~13.5% of orders fall into a high-risk long-delivery segment, representing a focused opportunity for improvement
 
-Tools
+Tools-
 Python (pandas, numpy), Plotly, Google Colab, Power BI
 
-Conclusion
+Conclusion-
 Targeting the worst delivery experiences—rather than overhauling the entire logistics system—can deliver disproportionate gains in customer satisfaction with minimal operational effort.
