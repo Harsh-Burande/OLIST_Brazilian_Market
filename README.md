@@ -3,7 +3,8 @@
 Olist Delivery Performance Analysis
 
 Overview
-This project analyzes delivery performance in the Olist e-commerce dataset to understand how delivery timelines impact customer satisfaction and identify high-impact areas for operational improvement.
+
+- This project analyzes delivery performance in the Olist e-commerce dataset to understand how delivery timelines impact customer satisfaction and identify high-impact areas for operational improvement.
 
 Objective
 - Evaluate delivery efficiency and delays
